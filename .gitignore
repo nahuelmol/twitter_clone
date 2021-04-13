@@ -1,0 +1,9 @@
+db.sqlite3
+
+users/**/*.pyc
+users/migrations/
+
+twitterdj/__pycache__/
+
+blog/**/*.pyc
+blog/migrations/
